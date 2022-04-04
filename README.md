@@ -1,2 +1,2 @@
 # NexusBlyat-Nuker
-Discord Server Nuked - NexusBlyat-Nuker
+Discord Server Nuker - NexusBlyat-Nuker
